@@ -1,0 +1,6 @@
+c:\users\sushil\documents\visual studio 2013\Projects\ConsoleApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\sushil\documents\visual studio 2013\Projects\ConsoleApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\sushil\documents\visual studio 2013\Projects\ConsoleApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\sushil\documents\visual studio 2013\Projects\ConsoleApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Sushil\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ClassLibrary1\bin\Debug\Ionic.Zip.dll
+C:\Users\Sushil\documents\visual studio 2013\Projects\ConsoleApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
